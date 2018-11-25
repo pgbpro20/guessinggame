@@ -1,3 +1,3 @@
-# guessinggame
-This is the guessing game assignment for "The Unix Workbench" Coursera
-this is my first commit
+Title: The World's Worst Guessing Game
+Date:  2018-11-25
+Number of lines of code:  28 guessinggame.sh
